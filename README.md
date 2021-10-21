@@ -1,13 +1,7 @@
-## Installation
+## Project: Savage Auth
+This project is a full-stack appliaction with authentication where the users can write, like, dislike and delete messages.
 
-1. Clone repo
-2. run `npm install`
+## Details
+Languages used — Languages used — EJS, CSS, JavaScript, Node.js, Express, MongoDB.
 
-## Usage
-
-1. run `node server.js`
-2. Navigate to `localhost:8080`
-
-## Credit
-
-Modified from Scotch.io's auth tutorial
+![savage-auth](https://user-images.githubusercontent.com/88905557/138364762-fcddf3ee-5560-4a46-8340-83df916b369f.png)
